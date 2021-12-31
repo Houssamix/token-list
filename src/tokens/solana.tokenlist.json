@@ -66497,6 +66497,17 @@
         "social-token"
       ]
     }
+    {
+      "chainId": 101,
+      "address": "E6nKpgVHevNCVkHn7gqNKGbrsCxjnxagMYME5CYdyUto",
+      "symbol": "EPIK",
+      "name": "Epik City Token",
+      "decimals": 8,
+      "logoURI": "https://epik.city/ec.png",
+      "tags": [
+        "GAME"
+      ]
+    }
   ],
   "version": {
     "major": 0,
